@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*variable*/
+/*Variabler de deklareres i toppen af vores stylesheet og de er globale.
+Variabler defineret i blokke ({}) er normalvis lokale og kan kun tilgås inde i blokken.*/
+/*mixin*/
+/* partal fil hentes ind i style.scss som et modul.Filen er en samling af variabler,mixins og funktioner som kan genbruges
+*//*# sourceMappingURL=style.css.map */
