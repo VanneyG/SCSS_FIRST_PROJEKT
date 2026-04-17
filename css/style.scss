@@ -1,13 +1,19 @@
 @use 'partial'; /* partal fil hentes ind i style.scss som et modul.Filen er en samling af variabler,mixins og funktioner som kan genbruges
  */
 
+
+ /*
  *{
  box-sizing: border-box;
  margin:0;
 
- }
+ }  */
 
  body{
+
+ box-sizing: border-box;
+ margin:0;
+
  padding:0;
  font-family: partial.$font;
  background-color:partial.$bg-color;
